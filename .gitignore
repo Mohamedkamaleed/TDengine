@@ -89,3 +89,5 @@ docs/examples/JDBC/**/.classpath
 docs/examples/JDBC/**/.factorypath
 docs/examples/JDBC/**/.project
 docs/examples/JDBC/**/.settings/
+config.bat
+node_modules
